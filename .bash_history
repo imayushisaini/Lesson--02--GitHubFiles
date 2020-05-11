@@ -238,3 +238,21 @@ vi index.js
 vi C_Program.c
 vi HelloJava.java
 vi index.html
+git commit . -m " done"
+git status
+rm -f .ssh
+git checkout -- .shh
+git checkout lesson-2
+git remote add origin git@github.com:imayushisaini/Lesson--02--GitHubFiles.git
+git init
+git add .
+git commit . -m "I am pushing all the files to my GitHub"
+git status
+git commit -a
+rmdir lesson-2
+ls
+git status
+git add .
+git status
+git commit . -m " done
+
