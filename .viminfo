@@ -20,18 +20,20 @@
 # Registers:
 
 # File marks:
-'0  2  18  ~/Lesson-02/index.js
-'1  1  0  ~/Lesson-02/index.js
-'2  8  6  ~/Lesson-02/index.html
-'3  1  0  ~/Lesson-02/index.html
-'4  6  0  ~/Lesson-02/HelloJava.java
-'5  6  0  ~/Lesson-02/C_Program.c
-'6  1  0  ~/index.html
-'7  1  0  ~/HelloJava.java
-'8  1  0  ~/C_Program.c
-'9  2  18  ~/index.js
+'0  2  0  ~/.gitconfig
+'1  2  18  ~/Lesson-02/index.js
+'2  1  0  ~/Lesson-02/index.js
+'3  8  6  ~/Lesson-02/index.html
+'4  1  0  ~/Lesson-02/index.html
+'5  6  0  ~/Lesson-02/HelloJava.java
+'6  6  0  ~/Lesson-02/C_Program.c
+'7  1  0  ~/index.html
+'8  1  0  ~/HelloJava.java
+'9  1  0  ~/C_Program.c
 
 # Jumplist (newest first):
+-'  2  0  ~/.gitconfig
+-'  1  0  ~/.gitconfig
 -'  2  18  ~/Lesson-02/index.js
 -'  1  0  ~/Lesson-02/index.js
 -'  8  6  ~/Lesson-02/index.html
@@ -131,6 +133,9 @@
 -'  2  18  ~/index.js
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitconfig
+	"	2	0
 
 > ~/Lesson-02/index.js
 	"	2	18

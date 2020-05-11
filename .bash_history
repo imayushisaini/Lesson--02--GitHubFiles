@@ -256,3 +256,7 @@ git add .
 git status
 git commit . -m " done
 
+git --version
+git init
+git add .
+git commit -m "first commit"
