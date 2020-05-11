@@ -538,3 +538,5 @@ Release Date: 2017-03-02
 [  1714.547] rdpkeybChangeKeyboardControl: autoRepeat off
 [  1717.332] rdpRRGetPanning: 0x55c107f73420
 [  1717.352] rdpRRGetPanning: 0x55c107f73420
+[  1943.457] rdpRRGetPanning: 0x55c107f73420
+[  1943.472] rdpRRGetPanning: 0x55c107f73420
