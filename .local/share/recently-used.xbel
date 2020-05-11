@@ -29,4 +29,30 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/ayushisaini2min/C_Program.c" added="2020-05-11T12:16:19Z" modified="2020-05-11T12:16:19Z" visited="2020-05-11T12:16:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-05-11T12:16:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayushisaini2min/index.js" added="2020-05-11T12:16:33Z" modified="2020-05-11T12:16:33Z" visited="2020-05-11T12:16:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2020-05-11T12:16:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

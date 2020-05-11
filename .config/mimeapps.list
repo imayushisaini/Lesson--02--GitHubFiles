@@ -1,3 +1,4 @@
 [Added Associations]
 text/plain=gedit.desktop;
 text/html=firefox.desktop;
+text/x-csrc=gedit.desktop;

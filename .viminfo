@@ -20,18 +20,31 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.ssh/index.html
-'1  3  0  ~/lesson-2/index.js
-'2  1  0  ~/lesson-2/index.html
-'3  6  6  ~/lesson-2/index.html
-'4  1  6  ~/lesson-2/HelloJava.java
-'5  5  0  ~/lesson-2/HelloJava.java
-'6  2  0  ~/lesson-2/C_Program.c
-'7  5  0  ~/lesson-2/C_Program.c
-'8  5  0  ~/lesson-2/CProgram.c
-'9  1  0  ~/index.html
+'0  2  18  ~/Lesson-02/index.js
+'1  1  0  ~/Lesson-02/index.js
+'2  8  6  ~/Lesson-02/index.html
+'3  1  0  ~/Lesson-02/index.html
+'4  6  0  ~/Lesson-02/HelloJava.java
+'5  6  0  ~/Lesson-02/C_Program.c
+'6  1  0  ~/index.html
+'7  1  0  ~/HelloJava.java
+'8  1  0  ~/C_Program.c
+'9  2  18  ~/index.js
 
 # Jumplist (newest first):
+-'  2  18  ~/Lesson-02/index.js
+-'  1  0  ~/Lesson-02/index.js
+-'  8  6  ~/Lesson-02/index.html
+-'  1  0  ~/Lesson-02/index.html
+-'  6  0  ~/Lesson-02/HelloJava.java
+-'  1  0  ~/Lesson-02/HelloJava.java
+-'  6  0  ~/Lesson-02/C_Program.c
+-'  1  0  ~/Lesson-02/C_Program.c
+-'  1  0  ~/index.html
+-'  1  0  ~/HelloJava.java
+-'  1  0  ~/C_Program.c
+-'  2  18  ~/index.js
+-'  1  0  ~/index.js
 -'  1  0  ~/.ssh/index.html
 -'  3  0  ~/lesson-2/index.js
 -'  1  0  ~/lesson-2/index.js
@@ -44,94 +57,130 @@
 -'  5  0  ~/lesson-2/C_Program.c
 -'  5  0  ~/lesson-2/CProgram.c
 -'  1  0  ~/lesson-2/CProgram.c
--'  1  0  ~/index.html
 -'  5  0  ~/HelloJava.java
+-'  4  0  ~/C_Program.c
+-'  1  0  ~/C_Program.c
+-'  2  18  ~/index.js
+-'  1  0  ~/index.js
+-'  1  0  ~/.ssh/index.html
+-'  3  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.html
+-'  6  6  ~/lesson-2/index.html
+-'  1  6  ~/lesson-2/HelloJava.java
+-'  5  0  ~/lesson-2/HelloJava.java
+-'  2  0  ~/lesson-2/C_Program.c
+-'  1  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/CProgram.c
+-'  1  0  ~/lesson-2/CProgram.c
+-'  4  0  ~/C_Program.c
 -'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
 -'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
+-'  2  18  ~/index.js
+-'  1  0  ~/index.js
+-'  1  0  ~/.ssh/index.html
+-'  3  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.html
+-'  6  6  ~/lesson-2/index.html
+-'  1  6  ~/lesson-2/HelloJava.java
+-'  5  0  ~/lesson-2/HelloJava.java
+-'  2  0  ~/lesson-2/C_Program.c
+-'  1  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/CProgram.c
+-'  1  0  ~/lesson-2/CProgram.c
 -'  5  0  ~/HelloJava.java
+-'  4  0  ~/C_Program.c
+-'  1  0  ~/C_Program.c
+-'  2  18  ~/index.js
+-'  1  0  ~/index.js
+-'  1  0  ~/.ssh/index.html
+-'  3  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.html
+-'  6  6  ~/lesson-2/index.html
+-'  1  6  ~/lesson-2/HelloJava.java
+-'  5  0  ~/lesson-2/HelloJava.java
+-'  2  0  ~/lesson-2/C_Program.c
+-'  1  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/CProgram.c
+-'  1  0  ~/lesson-2/CProgram.c
+-'  4  0  ~/C_Program.c
 -'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
 -'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
+-'  2  18  ~/index.js
+-'  1  0  ~/index.js
+-'  1  0  ~/.ssh/index.html
+-'  3  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.js
+-'  1  0  ~/lesson-2/index.html
+-'  6  6  ~/lesson-2/index.html
+-'  1  6  ~/lesson-2/HelloJava.java
+-'  5  0  ~/lesson-2/HelloJava.java
+-'  2  0  ~/lesson-2/C_Program.c
+-'  1  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/C_Program.c
+-'  5  0  ~/lesson-2/CProgram.c
+-'  1  0  ~/lesson-2/CProgram.c
 -'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
 -'  4  0  ~/C_Program.c
 -'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
--'  1  0  ~/HelloJava.java
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  4  0  ~/C_Program.c
--'  1  0  ~/C_Program.c
--'  5  0  ~/HelloJava.java
+-'  2  18  ~/index.js
 
 # History of marks within files (newest to oldest):
+
+> ~/Lesson-02/index.js
+	"	2	18
+	^	2	19
+	.	2	18
+	+	1	42
+	+	2	18
+
+> ~/Lesson-02/index.html
+	"	8	6
+	^	8	7
+	.	8	6
+	+	1	6
+	+	8	6
+
+> ~/Lesson-02/HelloJava.java
+	"	6	0
+	^	6	1
+	.	6	0
+	+	6	0
+
+> ~/Lesson-02/C_Program.c
+	"	6	0
+	^	6	1
+	.	6	0
+	+	6	0
+
+> ~/HelloJava.java
+	"	1	0
+	^	5	1
+	.	5	0
+	+	6	0
+	+	3	45
+	+	1	39
+	+	5	0
+
+> ~/C_Program.c
+	"	1	0
+	^	4	1
+	.	4	0
+	+	1	10
+	+	5	0
+	+	4	0
+
+> ~/index.js
+	"	2	18
+	^	2	19
+	.	2	18
+	+	1	50
+	+	2	18
 
 > ~/.ssh/index.html
 	"	1	0
@@ -171,20 +220,3 @@
 	"	1	0
 	.	1	0
 	+	1	0
-
-> ~/HelloJava.java
-	"	5	0
-	^	5	1
-	.	5	0
-	+	6	0
-	+	3	45
-	+	1	39
-	+	5	0
-
-> ~/C_Program.c
-	"	4	0
-	^	4	1
-	.	4	0
-	+	1	10
-	+	5	0
-	+	4	0
